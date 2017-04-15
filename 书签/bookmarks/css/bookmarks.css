@@ -1,8 +1,8 @@
 
 @charset "utf-8";
 
-html, body, ul, li { margin: 0; padding: 0; line-height: 1.2em;height: 100%;}
-h1, h2, ul, li, p { margin: 0; padding: 0; }
+html, body, ul, li { margin: 0; padding: 0;}
+h1, h2, ul, li, p { margin: 0; padding: 0;}
 
 a:hover {text-decoration:none;}
 li{list-style: none;}
